@@ -1,0 +1,13 @@
+/**
+ * 字符串的拼接
+ * @author KK
+ *
+ */
+public class TestStich {
+	public static void main(String[] args) {
+		// 使用 + 号拼接
+		String str1 = "Hello";
+		String str2 = " world";
+		System.out.println("使用+号拼接后为"+ str1 + str2);
+	}
+}
