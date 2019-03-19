@@ -19,5 +19,8 @@ public class TestScanner {
 		
 		//display output on console
 		System.out.println("Hello, " + name +". Next year you will be "+ (age+1) + ".");
+		
+		//close in
+		in.close();
 	}
 }
